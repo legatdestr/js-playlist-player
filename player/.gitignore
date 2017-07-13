@@ -1,0 +1,7 @@
+/*
+!app/
+!dist/
+!.gitignore
+!package.json
+!webpack.config.js
+!index.html

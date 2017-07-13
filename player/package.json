@@ -1,0 +1,21 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "Elecard-Med electronics queue.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Kochetkov S.B.",
+  "license": "Elecard-Med",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.23.0"
+  }
+}

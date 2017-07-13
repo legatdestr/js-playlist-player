@@ -1,0 +1,4 @@
+# Ignore all except some
+/*
+!.gitignore
+!player/
